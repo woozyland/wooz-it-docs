@@ -1,0 +1,3 @@
+require.config({
+    urlArgs: 't=637735397400182897'
+});
